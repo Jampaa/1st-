@@ -1,4 +1,5 @@
 # 1st-
 first repo
 <br>
-author - tenzin
+author - tenzin jampa
+ 
